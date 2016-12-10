@@ -5,7 +5,6 @@
             <title>HumanFinder</title>
             <link href="{% static "css/bootstrap.min.css" %}" rel="stylesheet">
             <script src="{% static "js/bootstrap.js" %}"></script>
-            <script src="{% static "js/myjs.js" %}"></script>
 			<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
             <link href='https://fonts.googleapis.com/css?family=Economica' rel='stylesheet' type='text/css'>
             <link rel="stylesheet" href="{% static 'css/blog.css' %}">
@@ -42,10 +41,10 @@
                 </div>
                 <div style="padding: 0; padding-right: 15px" class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
                     {% if user.is_authenticated %}
-                        <a style="" href="{% url 'django.contrib.auth.views.logout' %}" class="top-menu off"><span class="glyphicon glyphicon-off"></span></a>
+                        <a style="" href="{% url 'logout' %}" class="top-menu off"><span class="glyphicon glyphicon-off"></span></a>
                     {% endif %}
                     {% if not user.is_authenticated %}
-                        <a style="margin-right: 15px" href="{% url 'django.contrib.auth.views.login' %}" class="top-menu lock"><span class="glyphicon glyphicon-lock"></span></a>
+                        <a style="margin-right: 15px" href="{% url 'login' %}" class="top-menu lock"><span class="glyphicon glyphicon-lock"></span></a>
                     {% endif %}
                     <p style="float: right; margin-right: 25px;" class="top-menu username"><a id="username_a" href ='{% url 'user_profile' %}'>{{ user.username }}</a></p>
                 </div>
