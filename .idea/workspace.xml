@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cd11343-5a11-4aa5-afba-0138ebf1bc9c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/migrations/0001_initial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/migrations/0002_auto_20160418_1620.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/migrations/0003_auto_20160418_1630.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/migrations/0004_auto_20160426_0238.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/migrations/0005_auto_20160426_0328.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/migrations/0006_auto_20160426_0334.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/migrations/0007_auto_20160426_0334.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/migrations/0008_auto_20160426_0338.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/migrations/0009_auto_20160426_0339.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/migrations/0010_auto_20160430_2111.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/migrations/0011_post_user_image.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/migrations/0012_auto_20160502_0012.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/migrations/0013_auto_20160502_0149.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/migrations/0014_auto_20160502_0150.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HF/settings.py" afterPath="$PROJECT_DIR$/HF/settings.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/img/photos/2016/05/02/641da351_dXmr5UJ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/img/photos/2016/05/18/ui-57398a93c3aa45.94226810.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/img/photos/2016/05/30/user-icon-silhouette-ae9ddcaf4a156a47931d5719ecee17b92.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/img/photos/2016/06/06/user-icon-silhouette-ae9ddcaf4a156a47931d5719ecee17b92.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/img/photos/2016/06/06/user-icon-silhouette-ae9ddcaf4a156a47931d5719ecee17b92_RPYiwXd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/img/photos/2016/06/16/user-icon-silhouette-ae9ddcaf4a156a47931d5719ecee17b92.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/img/photos/2016/06/16/user-icon-silhouette-ae9ddcaf4a156a47931d5719ecee17b92_KPAIhLR.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/static/img/photos/2016/06/17/user-icon-silhouette-ae9ddcaf4a156a47931d5719ecee17b92.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HumanFinder.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -148,11 +142,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HF/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="649">
-              <caret line="97" column="1" selection-start-line="97" selection-start-column="1" selection-end-line="97" selection-end-column="1" />
+            <state relative-caret-position="258">
+              <caret line="74" column="40" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -650,10 +654,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16041666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16041666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18268216" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.7483108" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" x="178" y="292" width="886" height="689" />
@@ -698,13 +702,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HF/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HF/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1038,8 +1035,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HF/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="97" column="1" selection-start-line="97" selection-start-column="1" selection-end-line="97" selection-end-column="1" />
+        <state relative-caret-position="258">
+          <caret line="74" column="40" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
